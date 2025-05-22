@@ -1,0 +1,1898 @@
+# Extracted Text Strings
+# Total: 1857
+
+
+Retorne os dados como JSON válido usando a seguinte estrutura:
+{
+  "id": \$uniqueId,
+  "title": \$title,
+  "description": \$description,
+  "category": \$category,
+  "tags": \$tags,
+  "hangTags": \$hangTags,
+  "keywords": \$keywords,
+  "colors": [{
+    "color": "\$color",
+    "hex": "\$hex",
+  }],
+}
+  
+uniqueId deve ser exclusivo e do tipo String.
+title, description e category devem ser do tipo String.
+tags, hangTags e keywords devem ser do tipo List<String>.
+colors deve ser do tipo List<Map<String, String>>.
+
+
+Você é o dono de uma loja que realiza pedidos de locações de itens para todo mundo.
+Você é especialista em locações e eventos e tem paixão por festas. 
+Você conhece as maiores tendências do mundo das festas e decorações dessa forma pode montar grandes eventos com seus itens e descrevê-las de forma real a oferecer informações úteis e interessantes.
+
+Qual seria o melhor título para descrever a imagem fornecida.
+O título deve ser conciso e precisa representar a imagem facilmente como um produto a ser locado.
+Se não houver imagens anexadas ou se a imagem não contiver itens que façam sentido para o meio que você é especialista, responda exatamente com: "A solicitação não contém imagens de itens que possa ser identificado. Não posso recomendar uma descrição válida."
+
+Depois de fornecer o título, adicione uma descrição que explique de forma criativa o item para que possa ser usada para vende-lo.
+Em qual categoria esse item mais se adequa dentro do seu acervo de itens para locação para festas e eventos.
+Liste quais cores são predominantes nesse item, informe também a numeração hexadecimal da cor.
+Liste algumas tags para classificar esse item dentro do seu acervo de itens para locação para festas e eventos.
+Esse item estará disponível em marketplaces, quais a melhores etiquetas para chamar a atenção dos clientes.
+Visando SEO nos marketplaces, quais as melhores palavras-chaves podem ser usadas.
+
+Na categoria, cores, tags, etiquetas e palavras-chaves não repita nenhuma informação. 
+
+
+ 
+ $year
+ ($begin_time_name)
+ ($end_time_name)
+ - 
+ : 
+ ? 
+ Clientes
+ Dia
+ Dias
+ Itens
+ Pedidos
+ Visualizações 
+ a $date_end_formated
+ acessos
+ devoluções
+ e suas condições.
+ item
+ itens
+ itens faturados
+ para o período selecionado
+ pedido
+ pedidos
+ pedidos faturados
+ pendentes
+ realizadas
+ vezes
+ x
+ x 
+ | 
+ | $data
+ às $time
+%
+% 
+(${bank.bankName})
+(?<=[?!.])
+(__) _____-____
+) 
+)}% de desconto? Use meu link de indicação ou insira meu código 
+)}?
++
++${this.packageInfo.buildNumber}
+, 
+-----
+: 
+<b>
+<span style='color: green'>
+=
+?
+?url=${image_url}
+@
+A assinatura somente pode ser adicionada quando a locação estiver confirmada ou paga.
+A confirmação da senha não pode ser vazia
+A nossa central de ajuda vem para facilitar na hora que surgir alguma dúvida, aqui você poderá encontrar respostas para as perguntas mais frequentes.
+A partir de agora ao entrar no aplicativo, no fim da tela inicial, você encontrará um atalho para a central de ajuda. Clique nele para visualizar as dúvidas mais frequentes.
+A partir de agora ao entrar no aplicativo, você encontrará um atalho para as notificações. Clique nele para acessar o painel de notificações.
+A senha não pode ser vazia
+A situação do pedido te mostrará, de forma fácil, qual é o estágio em que se encontra e te guiará para quais ações tomar.
+A solicitação não contém imagens de itens que possa ser identificado. Não posso recomendar uma descrição válida.
+ACESSADOS RECENTEMENTE
+ACESSO AO APLICATIVO
+ARVORE MADEIRA DESCONSTRUIDA G L&D
+ATIVAR O CATÁLOGO VIRTUAL
+Abrir carrinho
+Abrir no mapa
+Aceite os termos de uso
+Aceito os 
+Acervo de produtos de vendas
+Acessar catálogo
+Acione o Salvar para concluir as alterações realizadas.
+Acompanhe as informações das entregas da sua loja.
+Acompanhe de perto a situação das suas vendas.
+Acompanhe de perto a situação do estoque da sua loja.
+Acompanhe de perto as estatísticas sobre suas vendas
+Acompanhe o histórico de faturamento dos pedidos.
+Acompanhe pelo App do Estoque NOW as estatísticas de acesso do seu Catálogo Online e analise o tráfego de visitas que seu catálogo está recebendo.
+Action Buttons
+Action Confirm Button
+Action Return Button
+Action Save
+Adicionar Cliente
+Adicionar Evento
+Adicionar Item
+Adicionar Item Genérico
+Adicionar Itens no Kit
+Adicionar Tag
+Adicionar ao Pedido
+Adicionar ao carrinho
+Adicionar arquivos
+Adicionar imagem
+Adicionar item ao kit
+Adicionar item continuamente
+Adicionar item à logística
+Adicionar itens
+Adicionar no Kit
+Adicionar novo evento
+Adicionar produtos e serviços
+Adicionar tag nova
+Adicionar um item
+Adicione a mensagem que será enviada junto do $type_text para o Whatsapp do cliente
+Adicione a mensagem que será enviada junto do $type_text para os emails informados
+Adicione alguma observação para ser exibida no contrato do cliente
+Adicione alguma observação para ser exibida no pedido do cliente
+Adicione alguma observação que deverá ser visualizada apenas por sua equipe. Essas observações não ficarão visíveis para seu cliente.
+Adicione aqui a sua super logo
+Adicione observações para seus clientes
+Adicione observações para sua equipe
+Adicione um título para a transação
+Adicione uma descrição para esse pagamento
+Adicione uma imagem com a logo da sua loja
+Adicione uma observação para a transação
+Agora está na hora de começar a fazer os cadastros dos produtos, clientes e pedidos da sua empresa para poder experimentar todo o poder do sistema Estoque NOW.
+Agora você pode acessar as notificações do sistema
+Agora você pode adicionar itens ao pedido.
+Agora você pode gerenciar as entregas de vendas
+Agora você pode gerenciar o acervo de produtos de vendas
+Agora você pode gerenciar os pedidos de vendas
+Agora você pode informar facilmente os itens não devolvidos
+Agora você poderá imprimir ou compartilhar a logística, caso precise de uma cópia física ou enviar para alguém.
+Agrupar itens por categoria
+Agrupar por categoria de transação
+Agrupar por formas de pagamento
+Aguardando confirmação
+Aguardando sua Reposta
+Aguarde enquanto estamos registrando sua empresa
+Aguarde...
+Agência
+Ainda não há messagens nesta conversa
+Ainda sem itens na decoração
+Algo deu errado ao carregar as filiais...
+Almofada Retangular
+Alt.: ${data.height.toString()} ${data.heightUnitType.toString().toLowerCase()}
+Alt.: ${data.itemHeight.toString()} ${data.itemHeightUnitType.toString().toLowerCase()}
+Alt.: ${data.length.toString()} ${data.lengthUnitType.toString().toLowerCase()}
+Alt.: ${widget.item.height.toString()} ${widget.item.heightUnitType.toString().toLowerCase()}
+Alterar Atendente
+Alterar Período
+Alterar Quantidade
+Altura (A)
+Alugue online pelo Catálogo Virtual
+Aluguel\nde produtos
+Analise a faixa etária do seu público.
+Analise a recorrência de pedidos emitidos por cliente.
+Aniversário
+Aniversários
+Ano passado
+Análise
+Ao clicar neste botão voltará para a tela anterior e poderá visualizar em resumo como ficou a devolução dos itens e todos os encargos que serão cobrados.
+Ao incluir itens como não devolvidos poderá visualizar os que foram selecionados e a quantidade nesta área.
+Ao informar a Data de Reserva o sistema manterá o pedido reservado até o prazo. Caso não seja confirmado o pagamento de qualquer parcela do pedido, o sistema irá automaticamente retornar a situação do pedido para Orçamento.
+Ao marcar esta opção, seu catálogo já estará disponível na internet e você poderá compartilhar o link com seus clientes e publicar nas suas redes sociais. É simples e 
+Ao realizar esta alteração, o carrinho não ficará mais visível para o seu usuário
+Ao realizar esta confirmação, o carrinho passará a ser um pedido.
+Ao realizar esta confirmação, será criado um pedido com base nesta decoração.
+Ao selecionar essa opção, você poderá definir as quantidades de cada produto que fará parte do Kit.
+Ao selecionar essa opção, você poderá informar um preço único para o Kit.
+Ao selecionar um item de outra logística, ele será movido para a logística selecionada.
+Apagar mensagem
+Apenas itens em manutenção
+Apenas pedidos ativos?
+Aplicando transparência na imagem...
+Aplicavel à
+Aproveite para conhecer um pouco mais sobre o sistema e como ele pode ajudar a sua empresa acessando o nosso Instagram.
+Após realizar o pagamento, é necessário enviar o comprovante
+Aqui poderá emitir orçamento e contrato do pedido, de acordo com o modelo de contrato de levando em conta as regras e cláusulas da sua empresa.
+Aqui poderá emitir orçamento e venda do pedido, de acordo com o modelo do pedido levando em conta as regras e cláusulas da sua empresa.
+Aqui poderá verificar todos os pedidos deste cliente, para que possa mensurar todo o retorno que o mesmo lhe ofereceu.
+Aqui serão exibidos os usuários da sua empresa
+Aqui serão listados os últimos categorias que você visualizou.
+Aqui serão listados os últimos cores que você visualizou.
+Aqui serão listados os últimos itens que você visualizou.
+Aqui serão listados os últimos pedidos que você visualizou.
+Aqui você poderá acessar as perguntas por módulos do sistema, ajudando na busca por respostas de forma mais direcionada.
+Aqui você poderá adicionar ou remover a quantidade de itens que não foram devolvidos pelo seu cliente.
+Aqui você poderá configurar as notificações que deseja receber, como também marcar todas como lidas.
+Aqui você poderá confirmar a devolução da logística, caso haja algum problema na devolução dos itens pelo seu cliente conseguirá informar quais não foram devolvidos.
+Aqui você poderá confirmar a entrega e devolução da logística, caso já tenha sido realizada, poderá desconfirmar. Além disso, caso haja algum problema na devolução dos itens pelo seu cliente conseguirá informar quais não foram devolvidos.
+Aqui você poderá filtrar as notificações por módulo, como também verificar quantas estão pendentes, facilitando a visualização das notificações que você deseja.
+Aqui você poderá informar os itens que não foram devolvidos, basta clicar no botão e informar a quantidade de itens que não foram devolvidos.
+Aqui você poderá pesquisar por nome ou código do item que deseja visualizar.
+Aqui você poderá visualizar o resumo da devolução quando existir problemas com os itens, constando a quantidade de itens não devolvidos e o valor total da reposição.
+Aqui você poderá visualizar os itens que não foram devolvidos, a quantidade e o valor total da reposição.
+Aqui você poderá visualizar todos os itens da logística, caso haja algum problema na devolução dos itens pelo seu cliente conseguirá informar quais não foram devolvidos.
+Arquivar item
+As senha devem ser iguais
+As senhas não conferem
+Assinar Digitalmente
+Assinar\n pelo APP
+Assinatura Digital
+Assinatura Eletrônica
+Assinatura eletrônica removida com sucesso.
+Assinatura removida com sucesso.
+Atalho para Central de Ajuda
+Atalho para Notificações
+Atendente do pedido salvo com sucesso.
+Atenção
+Atenção: Somente será possível renovar o pedido de locação quando a logística de entrega estiver confirmada e a devolução pendente.
+Atenção: Somente será possível renovar o pedido de venda quando a logística de entrega estiver confirmada e a devolução pendente.
+Ativar biometria
+Ative agora para acessar o aplicativo com mais segurança
+Atividades da loja
+Atualizando Dados...
+Atualizações em Logística
+Até
+Authenticate: biometrics only
+Available biometrics: ${snapshotAvailableBiometrics.data}\n
+Ações Principais
+BANDEJA DE LOUÇA QUADRADA VERDE L&D
+BAR CODE ITEM
+BAR CODE ITEM $barcode
+Bairro Novo
+Bloquear Cliente
+Buscando algo!
+Buscando dados do ${type == SingupBloc.user_type_pj ? 
+Buscando dados do CEP
+Buscando dados do cliente
+CADEIRA MEDALHÃO CRISTAL SEM BRAÇO, EM POLICARBONATO TRANSPARENTE, SEM ASSENTO
+CATÁLOGO ONLINE
+CEP Inválido!
+CEP não encontrado
+CNPJ: 
+CPF: 
+Cadastrar Fornecedor
+Cadastrar item semelhante
+Cadastrar novo item
+Cadastre seu primeiro produto ou serviço
+Cadastre uma categoria para seus produtos ou serviços
+Cadeira Tifanny Branca
+Calendário
+Callback at the beginning of animation: $str
+Callback at the end of animation: $str
+Campo Obrigatório
+Campo obrigatório
+Campos do Relatório
+Can check biometrics: ${snapshotCanCheckBiometrics.data}\n
+Canais de Divulgação
+Canais de divulgação
+Canal de divulgação
+Cancel Authentication
+Cancelar Pedido
+Cansado de procurar por uma imagem, vídeo ou documento importante para você ou seu cliente?! Então vincule arquivos ao sistema direto do armazenamento do seu dispositivo!
+Capture a assinatura eletrônica para agilizar validade do documento e evitar o vaivém de papéis.
+Carregando Chat...
+Carregando Código
+Carregando Imagem...
+Carregando Miniatura de Vídeo...
+Carregando decoração
+Carregando imagem...
+Carregando mais itens...
+Carregando mais mensagens...
+Carregando pesquisa...
+Carregando tags...
+Carregando total...
+Carregando...
+Carregando... 
+Carrinho de Locação
+Cartão
+Caso esse campo não seja preenchido, o código será gerado automaticamente.
+Caso existam outras logísticas associadas ao mesmo pedido, estas serão exibidas logo abaixo da principal selecionada. Você pode pegar os itens dessas logísticas e incluir à logística selecionada.
+Caso não tenha encontrado alguma opção para gerenciar seu pedido é aqui que encontrará o que está faltando.
+Caso queira prosseguir altere as datas no carrinho ou crie um novo!
+Catalogo Virtual
+Categoria com mais itens
+Categoria com mais itens: 
+Categoria de Itens
+Categoria de Transação
+Categoria de transação
+Categorias com Imagem
+Categorias de Transação
+Categorias de Transações
+Categorias de itens
+Catálogo
+Catálogo Online
+Catálogo Virtual
+Central de Ajuda
+Chamados de Suporte
+Check biometrics
+Checklist de Devolução
+Checklist de Entrega
+Checklist de Entrega e Devolução
+Chegaram novos documentos para a logística, agora poderá visualizar todos eles de forma centralizada.
+Cliente bloqueado com sucesso.
+Cliente cadastrado com sucesso
+Cliente desbloqueado com sucesso!
+Cliente do Pedido
+Cliente do pedido alterado com sucesso!
+Cliente do pedido alterado com sucesso.
+Cliente e Empresa
+Clientes que Geram mais Valor Financeiro
+Clique abaixo para realizar o pagamento via PIX
+Clique aqui para adicionar arquivos
+Clique para visualizar mais detalhes
+Clonar decoração
+Cláusulas
+Coloque a data da Devolução
+Coloque a data da entrega
+Coloque a data de Devolução
+Coloque a data de nascimento
+Coloque a hora da devolução
+Coloque a hora da entrega
+Coloque aqui algumas observações
+Coloque detalhes sobre o transporte
+Coloque o título da decoração
+Coloque o título do evento
+Coloque o valor do kit
+Coloque o valor do serviço
+Coloque o valor promocional
+Coloque um nome
+Coloque um nome para o cliente
+Coloque um nome para o item
+Coloque um nome para o item genérico
+Coloque um nome para o serviço
+Coloque um prefixo
+Coloque um título
+Coloque um valor unitário
+Coloque uma Razão Social para o cliente
+Coloque uma data de nascimento
+Coloque uma quantidade
+Com a chegada do novo módulo de gestão de vendas, agora você pode alterar a visualização das logísticas de forma simples.
+Com a chegada do novo módulo de gestão de vendas, agora você pode alterar a visualização do seu estoque de forma simples.
+Com a chegada do novo módulo de vendas, agora você pode acompanhar as estatísticas de vendas da sua empresa.
+Com a chegada do novo módulo de vendas, agora você pode gerenciar suas vendas de forma mais eficiente e prática.
+Com a chegada do novo painel de notificações, agora você pode checar todas as notificações que recebeu de forma mais rápida e prática.
+Com a integração de pagamento você oferece comodidade aos clientes, pois ele poderá pagar pelo próprio site. Além disso, você poderá oferecer diversas formas de pagamento aos seus 
+Com essa funcionalidade você poderá usar as imagens das peças do seu acervo para montar decorações de forma simples pelo sistema sem precisar deslocar as mobílias da sua loja!
+Com estoque
+Comece NOW
+Como você quer utilizar\no sistema?
+Comp.: ${data.itemLength.toString()} ${data.itemLengthUnitType.toString().toLowerCase()}
+Comp.: ${data.length.toString()} ${data.lengthUnitType.toString().toLowerCase()}
+Comp.: ${widget.item.length.toString()} ${widget.item.lengthUnitType.toString().toLowerCase()}
+Compartilhar Resumo
+Compartilhar arquivo
+Compartilhar carrinho
+Compartilhar catálogo
+Compartilhar decoração
+Compartilhar link do item
+Compartilhar resumo do item
+Compartilhar\n Documento
+Compartilhe seus vencedores...
+Compartilhe sua Retrospectiva...
+Comprimento (C)
+Comprovante de pagamento
+Concluir Evento
+Concluída
+Concluído
+Configurar as notificações
+Configurações
+Configurações do catálogo
+Configure abaixo as configurações de segurança do aplicativo
+Configure abaixo os tipos de notificações que você deseja receber pelo aplicativo
+Confira as Olimpíadas NOW
+Confira o item ${_item!.name} pelo link ${_item!.link}
+Confirmar Devolução
+Confirmar Entrega
+Confirmar Itens Selecionados
+Confirmar Orçamento
+Confirmar Pedido
+Confirmar Senha
+Confirmar Venda
+Confirmar com Pagamento
+Confirmar pagamento
+Confirmar sem Pagamento
+Confirmação de Itens
+Confirmação de senha
+Confirmação do pedido pela loja virtual
+Confirme sua nova senha
+Consulta de Disponibilidade
+Consulta de disponibilidade dos produtos
+Consultar Clientes
+Consultar Decorações
+Consultar Fornecedores
+Consultar Locações
+Consultar Logísticas
+Consultar Vendas
+Consultar por QR Code ou Código de Barras
+Conta Bancária
+Conta Corrente
+Conta bancária
+Conta pra gente
+Conta: ${data.account}
+Contas Bancárias
+Contas a pagar
+Contas a receber
+Contato do Cliente
+Content-Type
+Continue o cadastro\nda sua conta
+Contrato ${protocol ?? 
+Contrato por Email
+Contrato por Whatsapp
+Contrato_${protocol ?? 
+Convide outras empresas
+Copiar código
+Cor com mais itens
+Cor: $data
+Cor: ${data.color}
+Cor: ${data.itemColors}
+Cor: ${data.itemColor}
+Cor: ${widget.item.color}
+Cores de itens
+Cores dos Itens
+Could not launch $url
+Crescente - 
+Criar Conta
+Criar Nova Logística
+Criar nova locação
+Criar nova venda
+Crédito
+Cupom Promocional
+Cupom ou Código de indicação
+Cupom promocional aplicado com sucesso.
+Cupom promocional removido do pedido com sucesso.
+Current State: ${snapshotAuthorized.data}\n
+Câmera
+Código
+Código Copiado
+Código da Cor
+Código de Barra
+Código de Barras
+Código de barra: ${data.barcod}
+Código de barras
+Código de barras: 
+Código do banco 
+Código do cupom
+Código do item
+Código hexadecimal da cor
+Código identificador do item
+Código: 
+Dado copiado
+Dados Gerais
+Dados Gerais dos Pedidos
+Dados Gerais dos Pedidos Online
+Dados da Empresa
+Dados da empresa
+Dados do Responsável
+Data Final
+Data Inicial
+Data Prevista
+Data da Devolução
+Data da Entrega
+Data da Locação
+Data da Venda
+Data da devolução
+Data da entrega
+Data de Confirmação
+Data de Criação
+Data de Emissão
+Data de Entrega
+Data de Locação salva com sucesso.
+Data de Nascimento
+Data de Venda
+Data de confirmação removida com sucesso.
+Data de confirmação salva com sucesso.
+Data de criação
+Data de emissão
+Data de expiraçao
+Data de início
+Data de locação
+Data de locação removida com sucesso.
+Data de nascimento
+Data de pagamento
+Data de reserva salva com sucesso.
+Data de término
+Data de vencimento
+Data de venda removida com sucesso.
+Data de venda salva com sucesso.
+Data do Pagamento
+Data pagamento
+Decoração
+Decoração Virtual
+Decorações
+Decorações Virtuais
+Defina uma data
+Definir a quantidade de cada produto?
+Definir o preço para o Kit?
+Depois que a decoração virtual estiver finalizada, você poderá compartilhar uma foto do resultado com seu cliente pelo Whatsapp ou criar um Pedido de Locação rapidamente pelo aplicativo.
+Desconfirmar Devolução
+Desconfirmar Entrega
+Desconto (${intl_now<CurrenciesService>().actualCurrency!['symbol']})
+Desconto (%)
+Desconto Padrão
+Desconto do pedido salvo com sucesso.
+Desconto padrão
+Descrescente -
+Descreva abaixo o motivo do bloqueio do cliente.
+Descreva...
+Descrição
+Descrição da categoria
+Descrição do evento
+Descrição do item
+Descubra aqui mais detalhes sobre seus clientes.
+Descubra as novidades no seu aplicativo!
+Deseja realmente definir este evento como ${(event!.isCompleted == 
+Deseja realmente excluir este evento?
+Desejo fazer o estorno dos valores pagos para a Carteira do Cliente.
+Desejo remover todos os pagamentos realizados pelo Cliente.
+Deselecionar todos
+Despesas Anuais
+Destinatários
+Detalhar a transação
+Detalhe o que irá realizar
+Detalhes da logística
+Detalhes do Item
+Detalhes do Kit
+Detalhes do Pedido
+Detalhes do transporte
+Devolução
+Devolução 
+Devolução $statusText
+Devolução de Itens
+Devolução parcial
+Devoluções
+Devoluções de hoje
+Devoluções em Atraso
+Devoluções em atraso
+Digite a ${isShowOnlyOneRentalDate ? 
+Digite a ${isShowOnlyOneSaleDate ? 
+Digite a data da devolução
+Digite a data da entrega
+Digite a data de término
+Digite a hora da devolução
+Digite a hora da entrega
+Digite aqui
+Digite aqui as observações do item no pedido. Ex: \"Item com defeito\", \"Item com riscos\", \"Item com marcas de uso\"...
+Digite o CNPJ
+Digite o código que você recebeu por SMS para proseguir
+Digite o nome da sua loja
+Digite o nome do segmento
+Digite o seu e-mail de acesso
+Digite o seu nome
+Digite seu CPF
+Digite seu CPF ou CNPJ
+Digite seu celular
+Digite seu nome completo
+Digite sua nova senha
+Digite um CPF
+Digite um CPF ou CNPJ
+Digite um e-mail
+Digite um horário
+Digite um nome
+Digite um telefone
+Digite um valor
+Digite uma mensagem
+Digite uma senha
+Dimensões
+Disponíveis: 
+Diâmetro
+Diâmetro (D)
+Do lado x
+Documento do Pedido
+Documento do Ticket
+Documento do estrangeiro
+Documento: 
+Débito
+Dúvida não encontrada. Tente novamente.
+Dúvidas por módulo
+E-mail
+E-mail de atendimento
+E-mail inválido
+EE, d MMM yyyy
+EE, d MMM yyyy | HH:mm
+EEE, d 'de' MMMM yyyy
+EEE, dd MMM yyyy
+Edit Itens
+Editar Desconto
+Editar Fornecedor
+Editar Item
+Editar Itens
+Editar Logística
+Editar Observação
+Editar Tag
+Editar decoração
+Editar itens
+Editar logística
+Edição
+Edição Forma de Pagamento
+Edição de Categoria
+Edição de Cor
+Efi - PIX
+Em Atraso
+Em Avaliação
+Em Conferência
+Em Destaque?
+Em Orçamento
+Em andamento
+Em breve entraremos em contato para apresentar o Estoque NOW e tirar todas as suas dúvidas.
+Em destaque: 
+Em destaque?
+Emissão
+Emita seu primeiro pedido
+Empresa com um nome riducalamente grande
+Encaminhar Pedido
+Encerrar sessão
+Encontrado em: 
+Encontrado em: ${data.totalOrdered} pedido(s)
+Endereço
+Endereço destinatário
+Endereço do Catálogo Virtual
+Entrar com Biometria
+Entre utilizando sua \nidentificação visual
+Entre utilizando sua \nimpressão digital
+Entrega 
+Entrega $statusText
+Entrega parcial
+Entregas das vendas
+Entregas de hoje
+Enviar Link de Auto Cadastro
+Enviar o código novamente
+Enviar para o Whatsapp
+Envie o orçamento ou contrato por email ou whatsapp do seu cliente.
+Envie o orçamento ou pedido por email ou whatsapp do seu cliente.
+Erro ao adicionar fornecedor
+Erro ao adicionar tag
+Erro ao alterar o cliente do pedido!
+Erro ao atualizar fornecedor
+Erro ao atualizar itens!
+Erro ao atualizar tag
+Erro ao carregar o QR Code
+Erro ao escanear
+Error ${snapshot.error.toString()}
+Error - fetchCoordinates
+Error getting history: $e
+Error saving client in history: $e
+Error: ClientRepository | _decode_clients - ${e}
+Error: ClientRepository | _decode_clients - ${response.statusMessage}
+Escaneado com sucesso
+Escaneamento de QR Code \nou Código de Barras
+Escolha o que melhor atende às suas necessidades
+Escolha os itens que deseja para a logística selecionada
+Escolha um Item
+Esqueceu a sua senha?
+Essa informação foi útil?
+Esse é o nosso plano
+Esta Semana
+Esta aba contém o resumo do seu pedido, agrupando as logísticas, seus respectivos itens e os valores totais do pedido.
+Esta aba contém os detalhes do seu pedido, reunindo informações gerais, informações de logística, informações complementares e o responsável pelo pedido.
+Esta ação não poderá ser desfeita. Você realmente deseja arquivar este registro?
+Esta informação impactará diretamente no cálculo dos valores dos produtos e serviços. 
+Esta semana
+Estamos entusiasmados em compartilhar com você as últimas melhorias e recursos do nosso aplicativo. Nesta seção, você encontrará todas as atualizações recentes e emocionantes que preparamos especialmente para aprimorar sua experiência.
+Estatísticas
+Estatísticas de acesso
+Estatísticas de vendas
+Este Mês
+Este ano
+Este número tem Whatsapp?
+Este é o cliente do seu pedido, aqui poderá conferir algumas das suas principais informações, também pode acessar com um clique todos os seus dados.
+Estoque NOW
+Estoque Now
+EstoqueNOW Indica
+Etiqueta dos Itens
+Etiquetas do Item
+Etiquetas dos Itens
+Evento concluído
+Evento concluído?
+Evento não Realizado
+Ex: Lançamento, Mais Alugado...
+Excluir evento
+Exibir Nota Promissória no Contrato?
+Exibir Preço Total de Reposição dos itens no contrato?
+Exibir Preço Total de Reposição dos itens no orçamento?
+Exibir Preço Unitário dos itens?
+Exibir Preço de Reposição dos itens no orçamento?
+Exibir Preço de Reposição dos itens?
+Exibir código
+Exibir detalhes
+Exibir imagem dos itens?
+Exibir imagens dos itens
+Exibir os preços dos itens
+Exibir os preços dos itens no catálogo online, apenas quando usuário estiver logado
+Exibir preço
+Exibir tabela de pagamento?
+Exibir tipo de gestão
+Exibir total do patrimônio de itens
+Facilitamos a gestão dos itens na logística, agora você poderá adicionar e remover eles de forma mais rápida e prática. Caso trabalhe com múltiplas logísticas, poderá também transferir os itens entre elas.
+Failed to get platform version.
+Faixa Etária
+Faixa de Valor
+Falar com Suporte
+Falar com atendimento
+Falar com o suporte
+Fale com a gente
+Fale com sua equipe
+Falha ao carregar o Client
+Faq Action
+Faqs Filters
+Faqs Module
+Faturamento Anual
+Fazer Pedido
+Femini Whey
+Festas Now
+Ficamos felizes em receber você.
+Filtro de tipo de gestão
+Filtro por módulo
+Filtro por plataforma
+Finalizado com Débito
+Finalizado com débito
+Fique por dentro das novas funcionalidades, aprimoramentos de desempenho e correções de bugs que tornarão o uso do aplicativo ainda mais fluido e agradável.
+Flutter Gemini
+Fluxo de Caixa
+Fluxo de caixa
+Forma de Pagamento
+Forma de pagamento
+Formas de Pagamento
+Formas de cobrança
+Formas de pagamento
+Formato do Documento
+Funcionários
+Físico
+Gerar Impressão
+Gerar Recibo
+Gerar as etiquetas pode levar um tempo.
+Gere para todos os itens disponíveis em estoque
+Gerenciar Itens
+Gerencie os pagamentos do pedido.
+Gestão de Logística
+Gestão de Vendas
+Get - GuestAuth - ListCompanies
+Get - get Segments
+Get available biometrics
+Gostaria de saber mais?
+Gravando...
+Gustavo César
+Gênero
+HH:mm
+HH:mm:ss
+Help me festas
+Histórico
+Histórico de Alterações
+Histórico de Pedidos
+Histórico do Saldo dos Pedidos
+Histórico nos Pedidos
+Hoje às ${formatHour.format(data)}
+Hoje, ${difference.inHours} horas atrás
+Hora da Devolução
+Hora da devolução
+Hora da entrega
+Horário da Devolução
+Horário da Entrega
+Horário de início
+Horário de término
+Houve um erro ao buscar os dados.
+Houve um erro ao tentar alterar a senha. Tente novamente mais tarde.
+ITS EXCEL
+Identificação do Item
+Imagem Principal
+Imagine poder divulgar seus produtos e ainda facilitar para seus seguidores alugá-los com mais simplicidade e em poucos cliques? Isso já é possível! Você pode integrar seu catálogo do Estoque NOW com o Instagram Shopping e marcar seus produtos nas fotos postadas no Instagram.
+Impressão do Pedido
+Imprima ou Compartilhe
+Inativo a ${diff.inSeconds}s
+Inclusão Rápida por QR Code ou Código de Barras
+Indique Now
+Indique e Ganhe
+Informando Itens não Devolvidos
+Informações
+Informações Complementares
+Informações Gerais
+Informações de Logística
+Informações de fornecimento
+Informações para loja virtual
+Informe a data de recebimento (opcional)
+Informe a data em que o cliente efetivamente realizou o pagamento do valor cobrado.
+Informe a quantidade
+Informe a quantidade a ser impressa
+Informe a taxa de reposição do pedido
+Informe aqui o número do Cupom ou Código de indicação, caso alguma empresa tenha recomendado o Estoque NOW a você.
+Informe o cupom
+Informe o código
+Informe o código (opcional)
+Informe o motivo de cancelamento do pedido!
+Informe o motivo do bloqueio deste cliente
+Informe o motivo do bloqueio do cliente!
+Informe o motivo do cancelamento deste pedido
+Informe o nome fantasia
+Informe o objetivo
+Informe o preço unitário
+Informe o que deseja procurar...
+Informe o segmento que atua
+Informe o seu CNPJ
+Informe o valor extra do pedido
+Informe os destinatários para o envio desse email
+Informe seu e-mail
+Informe seu e-mail de acesso
+Informe sua senha secreta
+Informe sua senha\nsuper secreta
+Informe um modelo
+Informe um nome para o ${isService ? 
+Informe um objetivo
+Informe uma data
+Informe uma data (obrigatório)
+Informe uma descrição (obrigatório)
+Inscriçao Estadual
+Inscriçao Municipal
+Inscrição Estadual
+Inscrição Municipal
+Integração com a Sacolinha do Instagram (Instagram Shopping)
+Integração para pagamento online
+Inteligência para sua gestão de estoque
+Início
+Item Genérico
+Item alterado com sucesso.
+Item do Kit
+Item do kit atualizado com sucesso.
+Item do kit removido com sucesso.
+Item genérico
+Item genérico inserido do pedido salvo com sucesso.
+Item inserido ao carrinho com sucesso.
+Item inserido ao pedido com sucesso.
+Item inserido no kit com sucesso.
+Item já inserido no pedido.
+Item no Kit
+Item removido com sucesso do pedido.
+Item removido do carrinho com sucesso.
+Item removido do pedido com sucesso.
+Item sem estoque.
+Item substituido ao pedido com sucesso.
+Items Return Action Button
+Itens Faturados
+Itens Relacionados
+Itens Selecionados
+Itens atualizados com sucesso!
+Itens com Imagem
+Itens com imagem
+Itens da Logística
+Itens do Kit
+Itens em atraso
+Itens em outra Logística
+Itens faturados
+Itens mais visitados
+Itens na Logística
+Itens no Pedido
+Itens não Devolvidos
+Itens não Devolvidos:
+Itens sem Logística
+Itens sem logística
+Itens sem logística definida
+Jurídico
+Já pagou
+LOCAÇÕES
+LOGÍSTICA
+Lançamentos
+Lar.: ${data.itemWidth.toString()} ${data.itemWidthUnitType.toString().toLowerCase()}
+Lar.: ${data.width.toString()} ${data.widthUnitType.toString().toLowerCase()}
+Lar.: ${widget.item.width.toString()} ${widget.item.widthUnitType.toString().toLowerCase()}
+Largura (L)
+Limite de dígitos atingido
+Limpando Busca...
+Limpar Registros
+Link de Auto Cadastro
+Link de Auto Cadastro não encontrado!
+Link do Facebook
+Link do Instagram
+Link inválido
+Loc. Tarimba
+Locação
+Locação 
+Locações
+Logística
+Logística 
+Logística Selecionada
+Logística ainda sem itens
+Logística sem itens, adicione itens para gerenciar
+Logísticas
+Logísticas Relacionadas
+Logísticas do Pedido
+Loja Virtual
+Loja virtual
+MAIS OPÇÕES
+MM-dd
+Mais Filtros
+Mais Opções
+Mais informações
+Mais queridos
+Mais visibilidade para sua loja
+Management Sales
+Management Type Filter
+Manhã
+Mantenha o item pressionado para adicionar ou remover do carrinho
+Mantenha o item pressionado para adicionar ou remover do pedido
+Mantenha o item pressionado para ver mais detalhes
+Marcar como lido
+Max Titanium
+Melhoramos a visualização da logística e a primeira alteração é que agora você poderá verificar a situação atual da logística, agrupamos por entrega e devolução e elas podem estar pendente, atrasada ou realizada.
+Melhore para o plano
+Menu Completo
+Meu Catálogo Virtual
+Meu Estoque
+Meu Perfil
+Meu perfil
+Meu plano
+Meus Fornecedores
+Meus clientes
+Minhas estatísticas
+Minhas preferências
+Modelo Padrão
+Modelo de Contrato
+Modelo de Venda
+Modelo de contrato salvo com sucesso.
+Modelo de venda salvo com sucesso.
+Modelos de contrato
+Modelos de contrato 
+Modelos de venda
+Modelos do Recibo
+Modelos do recibo
+Modo de visualização
+Montando pedido
+Monte decorações únicas utilizando as peças do seu acervo e depois crie pedidos para seus clientes!
+Mostre o QR code na sua tela ou copie o código para realizar o pagamento no seu aplicativo de banco.
+Motorista não informado
+Métodos de Pagamento
+Mês
+Mês Atual
+Mês Passado
+Mês passado
+Múltiplas
+NOTIFICATION WILL DISPLAY LISTENER CALLED WITH: ${event.notification.jsonRepresentation()}
+NOTIFICAÇÕES
+Necessitamos do acesso a Câmera
+Necessitamos do acesso ao Armazenamento
+Nenhum acesso
+Nenhum arquivo anexado
+Nenhum disponível
+Nenhum evento encontrado
+Nenhum item da logística está disponível para renovação
+Nenhum item encontrado
+Nenhum item encontrado com a pesquisa realizada.
+Nenhum item registrado
+Nenhum novo resultado encontrado!
+Nenhum pedido
+Nenhum registro
+Nenhum registro encontrado
+Nenhum registro encontrado para essa leitura!
+Nenhum relatório encontrado
+Nenhum resultado encontrado
+Nenhuma empresa registrada para o parceiro
+Nenhuma filial encontrada
+Nenhuma filial encontrada...
+Nenhuma logística ativa no pedido
+Nenhuma logística disponível para renovação
+Nenhuma notificação encontrada
+Nesta área ficará os itens sem logística. Caso retire um item da logística atual este também ficará aqui. Você também pode adicionar esses itens na logística atual, basta selecionar eles.
+Neste plano estão inclusas as seguintes funcionalidades
+No topo da tela sempre exibirá a logística atual, com isso estará gerenciando os itens que farão parte dela.
+Nome Completo
+Nome Fantasia
+Nome da categoria de item
+Nome da cor do item
+Nome de fantasia
+Nome do Segmento de Negócio
+Nome do modelo
+Nome para ser acessado
+Nome, CPF, CNPJ, e-mail...
+Nomeie sua tag
+Nossas últimas atualizações
+Nota de Locação
+Nothing to show
+Notification Action
+Notifications Configurations
+Notifications Module
+Notificações
+Nova Categoria
+Nova Data de Devolução
+Nova Decoração
+Nova Devolução
+Nova Entrega
+Nova Locação
+Nova Logística
+Nova Senha
+Nova Transação
+Nova Venda
+Nova categoria de item
+Nova cor de item
+Nova decoração
+Nova forma de pagento
+Nova locação
+Nova logística
+Nova transação
+Nova venda
+Novo Cliente
+Novo Fornecedor
+Novo Item
+Novo cliente
+Novo evento
+Novo fornecedor
+Novo item
+Novo modelo de contrato
+Novo pagamento do pedido
+Novo pedido da loja virtual
+Novos Documentos
+Nª Dias
+N° de Pedidos
+Não
+Não Informado
+Não definido
+Não deixe de conferir também
+Não existe carrinho criado
+Não foi possivel exibir o anexo $fileName
+Não foi possivel logar
+Não foi possivel utilizar a funcionalidade, entre em contato com a equipe de suporte
+Não foi possível abrir o item
+Não foi possível carregar o arquivo selecionado
+Não foi possível carregar o evento
+Não foi possível compartilhar a decoração
+Não foi possível compartilhar a imagem
+Não foi possível compartilhar o arquivo do pedido
+Não foi possível compartilhar o arquivo do ticket
+Não foi possível concluir a solicitação
+Não foi possível concluir a solicitação, verifique o arquivo selecionado e tente novamente.
+Não foi possível encontrar uma aplicação para concluir a solicitaç~.
+Não foi possível encontrar uma aplicação para concluir a solicitação.
+Não foi possível encontrar uma aplicação para concluir a solicição.
+Não foi possível exibir o anexo $fileName
+Não foi possível verificar a decoração para concluir a solicitação, tente novamente!
+Não foi possível verificar o carrinho para concluir a solicitação, tente novamente!
+Não foi possível verificar o link do seu catálogo virtual
+Não foram encontrados resultados para a busca desejada!
+Não há logística cadastrada para este pedido.
+Não informado
+Não iniciada
+Não quero ser Notificado
+Não recebi o código
+Não é possivel acessar a logistica, pois você já esta visualizando a logistica do pedido.
+Não é possível acessar o pedido, pois você já está visualizando um pedido deste cliente
+Não é possível cancelar este pedido!
+Não é possível criar uma nova logística para este pedido!
+Não é possível editar esta transação
+Não é possível editar está Forma de Pagamento!
+Não é possível encaminhar um pedido cancelado!
+Não é possível prosseguir na aplicação sem estas permissões. Deseja sair do Estoque NOW?
+Não é possível renovar este pedido, pois o mesmo não encontrasse confirmado e com devoluções pendentes!
+Não, obrigado
+Número
+Número da Identidade
+Número da identidade
+Número de Pedidos
+Números de Pedidos
+O bloqueio poderá ser desfeito no futuro.
+O cliente selecionado não possui dados de endereço
+O mês que fez a diferença
+O pedido ainda não possui logísticas ativas!
+O período de consulta de disponibilidade que você está utilizando não é o mesmo informado no carrinho. 
+O que deseja fazer agora?
+O seu registro foi salvo com sucesso!
+O sistema irá calcular a diferença entre o período da entrega e da devolução e multiplicará pelo valor unitário de cada item.
+Objetivo de Locação
+Objetivo de Venda
+Objetivo de locação removido com sucesso.
+Objetivo de locação salvo com sucesso.
+Objetivo de venda removido com sucesso.
+Objetivo de venda salvo com sucesso.
+Observação
+Observação do pedido salva com sucesso.
+Observações
+Observações Gerais
+Observações Internas
+Observações Internas do pedido salva com sucesso.
+Observações do Fornecedor
+Observações do Item
+Observações do item
+Observações do item no pedido salva com sucesso.
+Observe aqui as estatísticas sobre os seus pedidos.
+Ocorreu um erro
+Ocorreu um erro ao carregar os anexos
+Ocorreu um erro ao carregar os dados do pagamento
+Ocorreu um erro ao gerar o relatório
+Ocorreu um erro ao verificar os dados do cliente
+Ocorreu um error
+Ok, alterar
+Ok, bloquear
+Ok, cancelar
+Ok, confirmar
+Ok, limpar
+Ok, remover
+Olha o seu queridinho
+Olá! Bem-vindo à página de novidades
+Olá! Gostaria de mais informações sobre a troca de plano.
+Olá! gostaria de mais informações sobre o sistema Estoque NOW.
+Olá! preciso de ajuda no aplicativo do Estoque NOW.
+Olá, ${user.name}!
+Ontem às ${formatHour.format(data)}
+Ops!
+Orcamento_${protocol ?? 
+Ordem de Criação
+Ordem de Exibição
+Ordenar por
+Ordenação
+Orgão Expedidor
+Orçamento
+Orçamento ${protocol ?? 
+Orçamento por Email
+Orçamento por Whatsapp
+Outras Logísticas
+Outras Opções
+Outros Pedidos do Cliente
+PARÂMETROS DO CATÁLOGO ONLINE
+POLICARBONATO TRANSPARENTE
+Pagamento PIX
+Pagamento Parcelado
+Pagamento do pedido salvo com sucesso.
+Pagamento removido com sucesso do pedido.
+Pagamentos do Pedido
+Pagar via PIX
+Painel de Notificações
+Palavras-chave
+Palavras-chaves
+Palavras-chaves para o item
+Para concluir o atendimento informe para qual cliente o pedido será associado
+Para finalizar bastar clicar no botão salvar, com isso estará dando baixa na devolução da logistica e caso tenha informado itens não devolvidos, será incluído os valores para reposição no pedido.
+Para mais detalhes é possível arrastar ou clicar no gráfico
+Para montar um pedido com está decoração informe para qual cliente o pedido será associado
+Para selecionar quais informativos deseja receber para lhe auxiliar no controle do seu negócio é preciso que permita o recebimento de notificações nas configurações do dispositivo.
+Para utilizar está funcionalidade entre em contato com nosso suporte
+Parabéns! Você finalizou o cadastro da empresa.
+Parcela do Pedido
+Parece que houve um problema com a imagem escolhida, tente novamente.
+Parece que você ainda não possui um acesso!
+Parece que você não possui uma empresa como amigo
+Pedido cancelado com sucesso.
+Pedido com nova logística renovado com sucesso
+Pedido de Locação
+Pedido de Venda
+Pedido do Cliente
+Pedido pago pela loja virtual
+Pedido por Email
+Pedido por Whatsapp
+Pedido removido com sucesso
+Pedido sem logística definida!
+Pedidos Emitidos por Dia da Semana
+Pedidos Online por Status
+Pedidos Realizados
+Pedidos de vendas
+Pedidos do Cliente
+Pedidos do site
+Pedidos emitidos
+Pedidos faturados
+Pedidos não Realizados
+Pedidos por Status
+Pedidos realizados: 
+Pendente (produtos não reservados)
+Perfil alterado
+Permissão Concedida
+Permita que seus clientes selecionem os produtos que desejam alugar e o sistema informará se tais produtos estão disponíveis para as datas escolhidas.
+Permitir que o cliente realize o pagamento online do pedido confirmado
+Período
+Período da Consulta
+Período da Locação
+Período da logística
+Período de Cadastro
+Período de Renovação: 
+Período de cadastro
+Período de locação
+Peso (P)
+Peso: ${data.itemWeight.toString()} ${data.itemWeightUnitType.toString().toLowerCase()}
+Peso: ${data.weight.toString()} ${data.weightUnitType.toString().toLowerCase()}
+Peso: ${data.width.toString()} ${data.weightUnitType.toString().toLowerCase()}
+Peso: ${widget.item.weight.toString()} ${widget.item.weightUnitType.toString().toLowerCase()}
+Pesos e Medidas
+Pesquisando por 
+Pesquisar Itens
+Pesquisar por Itens
+Pesquisar por nome...
+Pesquise nos chamados...
+Pesquise o Item
+Pessoa Física
+Pessoa Jurídica
+Pessoa\nfisíca
+Pessoa\njurídica
+Pix Copiado
+Por Bairro
+Por Cidade
+Por ano
+Por diária
+Por favor preencha os dados para que possa prosseguir
+Por favor selecione um modelo de etiqueta para que possa prosseguir
+Por favor, aguarde!
+Por hora
+Por minuto
+Por mês
+Por onde deseja selecionar a imagem
+Por período
+Por semana
+Post - Auth - CheckEmail
+Post - Auth - SubmitLogin
+Post - Check Cpf Cnpj
+Post - GuestAuth - SubmitLogin
+Post - Singup - FormUser SMS
+Prazo de Recebimento (dias)
+Precisa de Ajuda?
+Preecha os campos de período da locação
+Preecha os campos de período da venda
+Preencha com um email
+Preencha com uma senha
+Preencha esse campo!
+Preencha os campos obrigatórios
+Preencha os campos obrigatórios!
+Preencha todos os campos do formulário!
+Preferências
+Prefixo da categoria
+Preparando arquivo de compartilhamento
+Preparando imagem para compartilhar
+Preparando seu compartilhamento...
+Preço
+Preço Promocional
+Preço Unitário
+Preço da compra
+Preço de Custo
+Preço de Locação para PJ
+Preço de Reposição
+Preço de Venda para PJ
+Preço do Kit
+Preço promocional
+Preço uitário
+Preço unitário
+Principais Localizações
+Principais localizações
+Print Button
+Print Documents
+Problemas na Devolução de Logística
+Processando...
+Procurando por "$search"
+Procure pela categoria
+Procure pela cor
+Procure pela decoração
+Procure pela forma de pagamento
+Procure pela ocorrência...
+Procure pela tag
+Procure pelo nome ou código do item
+Procure pelo pedido
+Procure por nome, cpf , telefone ...
+Procure por nome, código ...
+Procure por nome, código...
+Procure por nome, data ...
+Procure por nome, protocolo , data ...
+Procure por nome, protocolo etc...
+Procure por nome, protocolo, data
+Procure por nome, protocolo, data...
+Procure por sua dúvida aqui
+Produtos sem Estoque
+Produtos sem estoque
+Propriedades Complementares
+Protocolo do pedido
+Próximo
+Público
+QR Code
+Qtd em Manutenção
+Qtd.
+Qtd. 
+Qtd. de Locações
+Qual a logo do seu negócio?
+Qual o nome da sua Loja?
+Qual o segmento da sua empresa?
+Qual o segmento?
+Qual o tipo do seu negócio?
+Quantidade Disponível
+Quantidade de itens devovidos
+Quantidade em Estoque
+Quantidade em Manutenção
+Quantidade máxima do item atingida
+Quantidade: 
+Que tal conhecer os nossos Planos?
+Que tipo de contato inicial você prefere?
+Quebrar página por logística
+Quem recebeu?
+Quer ativar o login rápido com biometria?
+Quer ganhar ${_code!.discountPercentage!.replaceFirst(
+Quero acessar o catálogo de itens como convidado
+Quero ajuda do suporte
+Quero ajuda!
+Quero ativar
+Quero começar!
+Quero consultar o catálogo da loja que estou visitando agora
+Quero gerenciar a minha loja
+Quero saber mais
+Quero ser Notificado
+Query === $query
+RESULT IS $result
+ROI = Retorno sobre investimento
+R\$
+R\$ 
+Razão Social
+Realizando Busca...
+Receitas Anuais
+Receitas e Despesas
+Recibo de Devolução
+Recibo de devolução
+Redirecionando para o seu catálogo virtual...
+Registro Estadual
+Registro Municipal
+Registro ainda sem especificação!
+Registro salvo com sucesso!
+Registros Exibidos
+Relatorio Financeiro
+Relatorio de Locação
+Relatório Financeiro
+Relatório de Clientes
+Relatório de Itens
+Relatório de Locações
+Relatório de Logística
+Relatório de Separação
+Relatórios
+Relatórios de Clientes
+Relatórios de Locações
+Removendo o Item da Logística
+Remover Anexo
+Remover Imagem
+Remover decoração
+Remover do Pedido
+Remover do carrinho
+Remover evento
+Remover foto
+Remover item
+Renovar Pedido
+Renovação do Pedido
+Rental Client
+Rental Client Contact
+Rental Client Rentals
+Rental Detail
+Rental More
+Rental Payment
+Rental Print
+Rental Send
+Rental Status
+Repetir por
+Reposição
+Reposição Unit
+Reposição Unit.
+Reservar Temporariamente
+Reservar até
+Resumo Anual
+Resumo da Devolução
+Resumo do Pedido
+Retirada na Loja
+Retirada na loja
+Retirar na Loja
+Retirar na loja
+Return Resume
+Reunião
+Rua Coronel João Joaquim Antunes 
+SEGURANÇA
+SEUS DADOS
+Sair do app
+Saiu ao App - statusAppForAudioSend
+Saiu do APP
+Saldo Efetivo
+Saldo Pendente
+Saldo Total
+Saldo dos Pedidos
+Sale Client
+Sale Client Contact
+Sale Client Sales
+Sale Detail
+Sale More
+Sale Payment
+Sale Print
+Sale Send
+Sale Status
+Salvando a Devolução
+Salvando decoração
+Salvar Logística
+Scanner Item
+Se não tiver com a imagem da sua logo agora, você poderá adicioná-la depois.
+Se você faz a simulação da decoração das festas na sua loja física, escolhendo as peças no acervo e montando em um espaço da loja para seus clientes verem a decoração completa, tenho certeza que você irá amar a nova funcionalidade do nosso App.
+Selecionar Cliente
+Selecionar ou cadastrar Cliente
+Selecionar todos
+Selecione a Categoria
+Selecione a conta
+Selecione a empresa
+Selecione a forma de pagamento para prosseguir
+Selecione a hora da devolução
+Selecione a hora da entrega
+Selecione a situação do cliente
+Selecione em qual logística estão os itens que deseja renovar
+Selecione o Cliente
+Selecione o Período
+Selecione o Segmento
+Selecione o cliente
+Selecione o horario da devolução
+Selecione o horario da entrega
+Selecione o item do kit para ver mais detalhes
+Selecione o item que deseja remover da logística atual.
+Selecione o motorista
+Selecione o tipo
+Selecione o tipo do arquivo
+Selecione o veículo
+Selecione os Itens
+Selecione quais itens deseja renovar
+Selecione sua data de nascimento
+Selecione um $selectedType
+Selecione um arquivo
+Selecione um cliente
+Selecione um dos itens abaixo para começar a decorar seu ambiente
+Selecione um funcionário
+Selecione um item válido para remover do carrinho
+Selecione uma categoria
+Selecione uma categoria (opcional)
+Selecione uma conta
+Selecione uma conta bancária (opcional)
+Selecione uma data
+Selecione uma forma de pagamento
+Selected Items
+Sem Itens
+Sem categorias acessados recentemente!
+Sem cliente definido
+Sem cores acessados recentemente!
+Sem dados
+Sem data definida
+Sem e-mail
+Sem estoque
+Sem eventos no período
+Sem histórico de clientes visualizados
+Sem histórico de itens visualizados
+Sem histórico de logísticas visualizadas
+Sem histórico de pedidos visualizados
+Sem histórico de pesquisas relacionadas
+Sem itens acessados recentemente!
+Sem itens no carrinho
+Sem pedidos acessados recentemente!
+Sem protocolo definido
+Sem registro no período
+Sem registro para a busca desejada!
+Semana passada
+Senha de acesso
+Senha invalida
+Separe as palavras-chaves utilizando a vírgula (,) 
+Serviço
+Serviços
+Serão lançados $qty pagamentos de $value_divided
+Sessão Expirada
+Seu Código:
+Seu Plano
+Seu acervo em destaque
+Seu melhor produto
+Seu pedido foi criado com sucesso!
+Seu plano atual não da acesso a essa funcionalidade, para ter acesso atualize seu plano.
+Siga 
+Sim, concordo
+Sim, desejo desbloquear
+Sim, desejo remover
+Sim, desejo sair
+Sim, ocultar
+Sim, quero arquivar
+Sim, quero conhecer
+Sim, quero excluir
+Sim, quero remover
+Situaçao
+Situação
+Situação da logistica
+Situação de Transação
+Situação do Cliente
+Situação do Estoque
+Situação do Pedido
+Situação do cliente
+Sobre a empresa
+Sobre o App
+Sobre o cliente
+Solicitar Confirmação
+Solicitar com o suporte
+Solicitar\n Assinatura
+Solicitação concluída com sucesso!
+Solicitação de confirmação
+Somente para o meu usuário?
+Sou Cliente
+Sou Lojista
+Sou Lojista e quero conhecer o Estoque NOW
+Sou Parceiro
+Sua empresa possui o plano 
+Sua locação esta confirmada
+Sua locação foi completamente paga
+Sua locação foi finalizada com sucesso
+Sua locação foi finalizada, porém ocorreu algum problema durante a devolução
+Sua locação foi parcialmente devolvida, algumas logísticas ainda não foram devolvidas
+Sua locação foi parcialmente entregue, algumas logísticas ainda não foram entregues
+Sua locação se encontra em orçamento
+Sua locação teve a devolução realizada
+Sua locação teve a entrega realizada
+Sua opinião é fundamental para nós, por isso não deixe de nos dar seu feedback sobre as atualizações. Aproveite ao máximo a versão mais recente e descubra tudo o que preparamos para você!
+Sua venda esta confirmada
+Sua venda foi completamente paga
+Sua venda foi finalizada com sucesso
+Sua venda foi finalizada, porém ocorreu algum problema durante a devolução
+Sua venda foi parcialmente devolvida, algumas logísticas ainda não foram devolvidas
+Sua venda foi parcialmente entregue, algumas logísticas ainda não foram entregues
+Sua venda se encontra em orçamento
+Sua venda teve a devolução realizada
+Sua venda teve a entrega realizada
+Suas cláusulas aqui...
+Substituir Item
+Substituir Item por:
+Tag de itens
+Tags dos Itens
+Tais informações impactam diretamente nos termos finais do contrato do pedido que é emitido para o cliente
+Tais informações serão exbidas no documento do pedido de venda emitido para o cliente
+Tam.: ${data.diameter.toString()} ${data.diameterUnitType.toString().toLowerCase()}
+Tam.: ${data.itemDiameter.toString()} ${data.itemDiameterUnitType.toString().toLowerCase()}
+Tam.: ${widget.item.diameter.toString()} ${widget.item.diameterUnitType.toString().toLowerCase()}
+Tamanho (T)
+Tamanho do item
+Taxa de ROI
+Taxa de Reposição
+Taxa de Reposição salva com sucesso.
+Taxa de frete
+Taxa do frete
+Tem acesso à loja virtual
+Tem acesso\nà loja virtual
+Tem alguma dúvida sobre o sistema? Consulte nossa Central de Dúvidas
+Tempo de conexão esgotado!
+Tenho parceria com uma loja e sou habilitado para revenda
+Termo de Logística
+Termo de Responsabilidade
+Termo de logística
+Termos de Uso
+Termos mais pesquisados
+Teste já
+The file is ${contents.length} bytes long.
+This device is not supported
+This device is supported
+Ticket Médio
+Tipo da Logística
+Tipo de Documento
+Tipo de Gestão
+Tipo de Impressão
+Tipo de Item
+Tipo de Locação
+Tipo de Logística
+Tipo de Movimentação
+Tipo de Parcela
+Tipo de Pedido
+Tipo de Público
+Tipo de Transação
+Tipo de Venda
+Tipo de arquivo não suportado
+Tipo de gestão
+Tipo de locação salvo com sucesso.
+Tipo de venda salvo com sucesso.
+Tipo do Cliente
+Tipo do cliente
+Tipo do item
+Tire dúvidas, encontre soluções e muito mais!
+Todos os itens selecionados tanto de outras logísticas ou aqueles que não tinham logística anteriormente serão resumidos na logística atual
+Toque para alterar
+Total Adicional \nda Renovação
+Total Adicional da Renovação
+Total Arrecadado pela Taxa de Frete
+Total Faturado
+Total de Categoria de Itens
+Total de Clientes
+Total de Cores de Itens
+Total de Itens
+Trabalhe com múltiplas logísticas e mova os itens entre elas
+Transação
+Troca de Item
+Trocar Cliente
+Trocar Senha
+Trocar de Filial
+Trocar senha
+Término
+Título
+Título da decoração
+Título do evento
+UTILIZE O ESPAÇO ABAIXO PARA ASSINAR
+Um erro ocorreu entre em contato com equipe de suporte.
+Um error ocorreu entre em contato com equipe de suporte.
+Uma nova forma de gerenciar suas logísticas está disponível
+Unidade da Altura
+Unidade da Federação
+Unidade da Largura
+Unidade do Comprimento
+Unidade do Diâmetro
+Unidade do peso
+Unreturned Items
+Use as Etiquetas para chamar a atenção do seu cliente na loja virtual.
+Use este link para se cadastrar no nosso sistema:\n$customUrl
+Use os gestos na imagem para melhorar a visualização
+Utilizado 
+Utilizar as datas de locação
+Utilizar o endereço do cliente
+Utilize a câmera para fazer a leitura das etiquetas dos seus itens para que verifique os detalhes e inclua rápidamente no pedido
+VALOR TOTAL
+Valor Alíquota (%)
+Valor Extra
+Valor Extra salva com sucesso.
+Valor Fixo (R\$)
+Valor Pago
+Valor Total
+Valor a ser pago
+Valor bruto
+Valor da Reposição:
+Valor do serviço
+Valor final
+Valor inicial
+Valor liquido
+Valor total
+Valor total do Acervo
+Valor: 
+Value changed
+Vamos aproveitar ao máximo o sistema?
+Veja aqui seus medalhistas
+Veja as opções de contatar o cliente para que possa suprir todas as dúvidas restantes.
+Vem cá descobrir
+Vencimento : 
+Venda 
+Venda ${protocol ?? 
+Venda\nde produtos
+Venda_${protocol ?? 
+Ver detalhes
+Ver outros planos
+Verificando a Situação
+Verifique como anda o fluxo de caixa da sua empresa.
+Versão do Documento
+Veículo
+Veículo não informado
+Veículos
+Via da Empresa
+Via do Cliente
+Via do Cliente e da Empresa
+Visitar @estoquenow
+Visitas a loja virtual
+Visualizar Etiquetas
+Visualizar Pedido
+Visualizar Recibo
+Visualizar Termos de Uso
+Visualizar detalhes
+Visualizar o item
+Visualizar pedido
+Visualizar somente pedidos da loja virtual
+Visualize as principais localidades que seus clientes residem.
+Visualize como anda a sua Loja Virtual.
+Visualize qual o dia da semana que a empresa mais emite pedidos.
+Visível
+Visível na Loja Virtual
+Visível na loja virtual
+Visível na loja virtual?
+Vitabrasilnet (Jaqueira)
+Você
+Você ainda não salvou a decoração, deseja sair mesmo assim?
+Você deseja realmente alterar o cliente do pedido para o que está criando!
+Você deseja realmente alterar o cliente do pedido!
+Você deseja remover essa logística?
+Você deseja remover essa transação?
+Você deseja remover esse cliente?
+Você deseja remover esse fornecedor?
+Você poderá escolher se deseja cadastrar uma Parcela do Pedido ou se deseja adicionar a cobrança de Valor Extra ao pedido de locação. Ex: Taxa de Caução.
+Você poderá escolher se deseja cadastrar uma Parcela do Pedido ou se deseja adicionar a cobrança de Valor Extra ao pedido de venda. Ex: Taxa de Caução.
+Você precisa permitir o acesso a câmera para continuar! Verifique as configurações do seu dispositivo.
+Você realmente deseja alterar o atendente deste pedido?!
+Você realmente deseja bloquear este cliente?!
+Você realmente deseja cancelar este pedido?!
+Você realmente deseja desbloquear esse cliente?
+Você realmente deseja limpar o carrinho?
+Você realmente deseja ocultar a visualização das novidades?!
+Você realmente deseja remover a assinatura do cliente deste contrato?
+Você realmente deseja remover a assinatura eletrônica do cliente deste contrato?
+Você realmente deseja remover a assinatura?
+Você realmente deseja remover essa forma de pagamento?
+Você realmente deseja remover esse decoração?
+Você realmente deseja remover esse item?
+Você realmente deseja remover esta categoria?
+Você realmente deseja remover esta cor de item?
+Você realmente deseja remover este modelo de contrato?
+Você realmente deseja remover este pedido?
+Você realmente deseja remover o cliente desta decoração?
+Você realmente deseja remover o cliente deste carrinho?
+Você realmente deseja remover o cupom promocional do pedido?
+Você realmente deseja remover o item do carrinho?
+Você realmente deseja remover o item do kit?
+Você realmente deseja remover o item do pedido?
+Você realmente deseja remover o pagamento do pedido?
+Você realmente deseja resetar os campos deste pagamento?!
+Você tem certeza que deseja desconfirmar a devolução?
+Você tem certeza que deseja desconfirmar a entrega?
+Você tem certeza que deseja excluir desta conversa as mensagens selecionadas?
+Você tem certeza que deseja limpar seu histórico de acesso aos itens?
+Você tem certeza que deseja limpar seu histórico de acesso aos pedidos ?
+Você tem certeza que deseja limpar seu histórico de acesso as categorias ?
+Você tem certeza que deseja limpar seu histórico de acesso as cores ?
+Você tem certeza que deseja remover a imagem selecionada?
+Você tem certeza que deseja remover o anexo selecionado?
+Você tem certeza que deseja remover o evento selecionado?
+Voltar para o início
+Voltou ao APP
+Voltou ao App - statusAppForAudioSend
+Vídeo
+Vídeos
+WEBADAPTE SERVIÇOS DE INFORMÁTICA EIRELI
+X-ENOW-API-appKey
+X-ENOW-API-appToken
+X-Token
+[]
+[^\d]
+\$color
+\$hex
+\W+|\s
+\\s+
+\n$textLast
+]}
+_${this.clientName}
+até
+audio - $source
+audio error - $e
+categoria de itens
+categorias de itens
+checklist-devolucao-$protocol
+checklist-entrega-$protocol
+checklist-entrega-devolucao-$protocol
+clientes. Cartão de crédito, débito, boleto e muito mais
+color: green
+colors[]
+contrato_$protocol
+cor dos itens
+cores dos itens
+customUrl: $customUrl
+dd 'de' MMMM
+dd MMM, yyyy
+decoration-assemble-
+decoration-assemble-item_list-filter-
+decoration_${data!.id}
+decoration_${data.id}
+decoration_item_${item_id}
+deleting template $id
+disponíveis
+disponível
+driver_id[]
+error - ${snapshot.error}
+error getItem
+error getItemBarcode
+error: $e
+estoque-now-app
+exemplo@exemplo.com
+fields[$element]
+file[]
+filter_paymentmethod[$element]
+filter_status_id[$element]
+filter_transactioncategory[$element]
+historic_search_$historyTrailing
+history_$historyTrailing
+home-shoppingcart-
+houve erro
+houve erro $error
+id is $id
+image error - $e
+image_${index}
+inventory-activity
+is editing is ${_isEditing.value}
+is from sale
+isCustom $isCustom
+item-delayed
+item-delayed-filter-
+item-form
+item-form-${data}
+item-form-${itemId}
+item-list-filter-
+item-view-kit-item_list_insert-filter-
+item_category_image_${id}
+item_category_image_${int.tryParse(data.id)}
+item_image_${int.tryParse(data.id!)}
+item_image_${int.tryParse(data.id)}
+item_image_${int.tryParse(data.itemId)}
+item_image_${int.tryParse(this.data!.id)}
+item_image_${int.tryParse(this.data.itemId)}
+item_image_${int.tryParse(this.widget.data!.id)}
+item_image_${int.tryParse(this.widget.data!.itemId!)}
+item_image_${int.tryParse(widget._params![
+item_name_${data.id!}
+item_name_${data.id}
+item_name_${data.itemId}
+item_name_${this.data!.id}
+item_name_${this.data.itemId}
+item_name_${this.widget.data!.id}
+item_name_${this.widget.data!.itemId}
+item_name_${widget.item.id}
+its here
+loading $loading
+logistics length
+logísticas
+mm:ss:SS
+negócio e ter um loja virtual de forma simples e lucrativa ;D\n
+nenhum pedido
+non-company
+nota-locacao-$protocol
+numero de dias
+nº de meses
+nº ordem de exibição
+ocorreu um erro ao selecionar a imagem
+order[$order_field]
+orçamento_$protocol
+para 
+payment_method[]
+postPaymentMethod $e
+profile_image_${data[
+profile_image_${this.client.id}
+profile_image_${this.provider.id}
+profile_image_${widget.client!.id}
+profile_name_${provider.id}
+profile_name_${widget.client!.id}
+pt-BR
+qty_returned_${element[
+qty_returned_${item.id}
+recibo-devolucao-$protocol
+rental-form-${rentalId}
+rental-list-filter-
+rental-reviews
+rental-view-${data!.id}
+rental-view-item_list-filter-
+rápido
+sale-form-${saleId}
+sale-list-filter-
+sale-view-${data!.id}
+sale-view-item_list-filter-
+source[]
+startRecorder error: $err
+stopRecorder error: $err
+stopRecorder: $result
+story_${slide}
+tags[]
+tamanho do arquivo $fileSize
+tamanho do arquivo $name
+tel:$original_phone
+tel:$phone
+termo-responsabilidade-$protocol
+then genericScan
+transaction-form-
+transaction-list-filter-
+transaction_category[]
+transação
+transações
+types[]
+vehicle_id[]
+x-token
+yyyy-MM
+yyyy-MM-dd
+yyyy-MM-dd HH:mm:ss
+yyyy-mm-dd
+|
+| 
+} ($textCategoryWithMoreItem)
+} Categoria(s)
+} cor(es)
+À prazo
+À vista
+Área do Visitante
+É estrangeiro?
+É necessário manter seu acervo de itens sempre atualizado, não é mesmo?! Então nada melhor que capturar imagens direto da câmera do seu dispositivo e coloca-lás nos itens!
+É quantidade de vezes que será considerada para o cálculo da cobrança da locação do item.
+É quantidade de vezes que será considerada para o cálculo da cobrança da venda do item.
+É também possível filtrar as perguntas por plataforma, sendo separadas com guias voltados para o sistema web ou aplicativo.
+Órgão Expedidor
+Órgão Expeditor
+Últimas logísticas visualizadas
+Últimas pesquisas
+Últimos clientes visualizados
+Últimos itens visualizados
+Últimos pedidos visualizados
+Única
+às
